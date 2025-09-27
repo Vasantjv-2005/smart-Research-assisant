@@ -1,4 +1,4 @@
-# Smart Research Assistant
+# 🚀Smart Research Assistant
 
 A modern, full‑stack research assistant built with Next.js 14, TypeScript, Tailwind CSS, Supabase, and OpenAI via the AI SDK. It lets users start a research session, upload supporting files, and receive careful, non‑speculative AI insights that are stored in a Postgres database.
 
